@@ -1,3 +1,3 @@
-# Codeplain.ai - Code Generation as a Service
+# spec-driven, production-ready code generation
 
-Codeplain is a platform that generates software code using large language models based on requirements you specify in Plain specification language.
+*codeplain is an ai-powered code generation platform that turns specifications written in ***plain language into production-ready software.
